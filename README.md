@@ -27,11 +27,11 @@ I'm a software engineer with a passion for building tools and exploring new tech
 
 ## 🚀 Notable Projects
 
-- **[shelr](https://github.com/antono/shelr)** ⭐ 193 - Console screencasting tool for recording terminal sessions
-- **[shelr.tv](https://github.com/antono/shelr.tv)** ⭐ 37 - Platform for recording and publishing shell sessions
-- **[evil-rails](https://github.com/antono/evil-rails)** ⭐ 35 - rails.vim clone for Emacs
-- **[kurso-de-esperanto](https://github.com/antono/kurso-de-esperanto)** ⭐ 17 - Esperanto learning course application
-- **[vt.js](https://github.com/antono/vt.js)** - VT100 terminal emulator implementation in JavaScript
+- **[shelr](https://github.com/antono/shelr)** (⭐ 193) - Console screencasting tool for recording terminal sessions
+- **[shelr.tv](https://github.com/antono/shelr.tv)** (⭐ 37) - Platform for recording and publishing shell sessions
+- **[evil-rails](https://github.com/antono/evil-rails)** (⭐ 35) - rails.vim clone for Emacs
+- **[kurso-de-esperanto](https://github.com/antono/kurso-de-esperanto)** (⭐ 17) - Esperanto learning course application
+- **[vt.js](https://github.com/antono/vt.js)** (⭐ 6) - VT100 terminal emulator implementation in JavaScript
 - **[aoc2018](https://github.com/antono/aoc2018)** - Advent of Code 2018 solutions in Rust
 
 ## 🌱 Currently Exploring
