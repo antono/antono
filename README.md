@@ -13,6 +13,6 @@ My name is Anton. I'am CTO at [On The Spot Development](https://onthespotdev.com
   - Low code automation tools like [n8n](https://github.com/n8n-io/)
   - [Software defined radio](https://www.gnuradio.org/)
 - 🤔 I’m looking for help with:
-  - rockchip devicetree overlays in nixos
+  - ~~rockchip devicetree overlays in nixos~~
   - [nixpkgs pr](https://github.com/NixOS/nixpkgs/pull/453877) review/merge
 - 📫 Reach me via tg: @ant0no
