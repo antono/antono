@@ -4,7 +4,7 @@ My name is Anton. I'am CTO at [On The Spot Development](https://onthespotdev.com
 
 - 🔭 I’m currently working on AI assistant for review of legal documents.
 - Pet projects:
-  - [glaz](https://github.com/antono/mailbrus) - companion app and OS for open source smart glasses
+  - [glaz](https://github.com/antono/glaz) - companion app and OS for open source smart glasses
   - [groove.academy](https://groove.academy) - Free drum lessons that scroll by in your browser — bring a MIDI kit or tap the on-screen pads.
   - [Mailbrus](https://github.com/antono/mailbrus) - pimalaya based email client
   - [avi](https://github.com/nixos/nixpkgs/) - my nix based nvim config
